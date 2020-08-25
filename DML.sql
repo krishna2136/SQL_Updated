@@ -27,7 +27,7 @@ SELECT * FROM Employees;
 INSERT INTO Stream (Dept_ID,Dept_Name) VALUES (501,'Devops');
 INSERT INTO Stream (Dept_ID,Dept_Name) VALUES (502,'Kloudone');
 INSERT INTO Stream (Dept_ID,Dept_Name) VALUES (503,'Kloudlearn');
-INSERT INTO Stream (Dept_ID,Dept_Name) VALUES (504,'Alcavio');
+INSERT INTO Stream (Dept_ID,Dept_Name) VALUES (504,'Acalvio');
 
 SELECT * FROM Stream;
 
